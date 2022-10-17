@@ -1,0 +1,18 @@
+---
+title: "Homework-20.Rmd"
+author: "Marliese"
+date: "10/17/2022"
+output: html_document
+---
+
+set it up!
+```{r}
+rm(list=ls())
+library(ggplot2)
+library(dplyr)
+library(here)
+```
+
+okay good! moving on.
+
+
